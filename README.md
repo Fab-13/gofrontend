@@ -1,2 +1,1 @@
-# goazure
-Go + Azure
+# go frontend
